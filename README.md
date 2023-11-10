@@ -24,11 +24,11 @@ I use a telegram version with name MDgram. That you can find if you search on Go
 - EverMerge (GameDVA.com)
 - Groovepad (Mixroot)
 
-Windows Software (PC)
+# Windows Software (PC)
 
-Windows Games (PC)
+# Windows Games (PC)
 
-Ubuntu Server 
+# Ubuntu Server 
 
 Ubuntu Desktop
 
