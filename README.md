@@ -1,8 +1,9 @@
 # Awesome-List-PC-APK
+You can find the android apps in Playstore or you can find many Groups with the modded version on Telegram.
+I use a telegram version with name MDgram. That you can find if you search on Google. 
 
 # Android Software (APK)
 ///
-
 - SmartTube (Android Tv YouTube) (MustHave)
 - YouTube Revanced (YouTube) (@vseapps)
 - MicroG (@vseapps)
@@ -20,7 +21,6 @@
 
 # Android Games (APK)
 ///
-
 - EverMerge (GameDVA.com)
 - Groovepad (Mixroot)
 
