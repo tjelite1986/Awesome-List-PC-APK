@@ -73,7 +73,7 @@
 ## More Random Links
 - [OpenWRT](https://openwrt.org/) <br>
    *The OpenWrt Project is a Linux operating system targeting embedded devices*
-  - [Utmel.com](https://www.utmel.com/) <br>
+- [Utmel.com](https://www.utmel.com/) <br>
   *ELECTRONIC COMPONENTS DISTRIBUTOR*
 
 ## Telegram Links
