@@ -1,6 +1,9 @@
-# Awesome-List-PC-APK
-You can find the android apps in Playstore or you can find many Groups with the modded version on Telegram.
-I use a telegram version with name MDgram. That you can find if you search on Google. 
+# My Awesome List of Random Stuff
+### Everything in one place, never lose something again.
+### Here you can find both Official and modded version of software and games.
+### Platform: Android, PC, Linux
+### Many of Android apps and games you can find on the Playstore and in Telegram Channels.
+### I use a version of Telegram with name MDgram
 
 # Android Software (APK)
 ///
@@ -83,6 +86,7 @@ Download audio/video files from more than 1000 websites
 
 <a href="https://t.me/apkmodyfamily" target="_blank">🔥 Goldroid family (Russia)</a>
 
-<a href="https://t.me/Android_hacked_apps_games" target="_blank">🔥 Android Hacked</a>
+<a href="https://t.me/Android_ hacked_apps_games" target="_blank">🔥 Android Hacked</a>
 
 <a href="https://t.me/apkdl_mod_io" target="_blank">🔥 APKdl.io</a>
+
