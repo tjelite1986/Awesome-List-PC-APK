@@ -106,4 +106,9 @@
 - [MOD APPS Stock](https://t.me/MOD_APPS_Stock)
 - [APKdl.io](https://t.me/apkdl_mod_io)
 
+## Osorterade
+https://stefansundin.github.io/privatkopiera/
+illägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster
+https://stefansundin.github.io/privatkopiera/#ffmpeg
+https://github.com/stefansundin/privatkopiera
 
