@@ -1,5 +1,5 @@
 # My Awesome List of Random Stuff
-### Everything in one place, never lose something again.
+<h1>Everything in one place, never lose something again.</h1>
 ### Here you can find both Official and modded version of software and games.
 ### Platform: Android, PC, Linux
 ### Many of Android apps and games you can find on the Playstore and in Telegram Channels.
