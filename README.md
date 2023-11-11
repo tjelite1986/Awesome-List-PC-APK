@@ -65,26 +65,34 @@
    *| Youtube Downloader | And More (+1000)*
 - [nmrpflash](https://github.com/jclehner/nmrpflash)
    *| YNetgear Unbrick Utility | Win / Mac / Linux*
-  - [Privatkopiera](https://stefansundin.github.io/privatkopiera/) '
-    *| Tillägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster*
+- [Privatkopiera](https://stefansundin.github.io/privatkopiera/) '
+  *| Tillägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster*
   
 ## IPTV 
 - [m3u4u.com](https://m3u4u.com/)
-   *m3u playlist editor | No VOD*
+  *| m3u playlist editor | No VOD*
 
 ## Streaming
 - [SVT Play](https://www.svtplay.se)
-   *Swedish*
+  *| Swedish |*
 - [TV4 Play](https://www.tv4play.se)
-   *Swedish*
+  *| Swedish |*
 - [Disney Plus](https://www.disneyplus.com)
+  *| Disney | Marvel | More*
 - [HBO MAX](https://www.hbomax.com)
+  *| HBO MAX |*
 - [Netflix](https://www.netflix.com)
+  *| Netflix |*
 - [Sky](https://www.sky.com/)
+  *| Sky |*
 - [Apple+](https://www.apple.com/apple-tv-plus/)
+  *| Appel Tv+ |*
 - [Amazon Prime Video](https://www.primevideo.com)
+  *| Amazon Prime Video |*
 - [Hulu](https://www.hulu.com)
+  *| Hulu |*
 - [Plex](https://www.plex.tv)
+  *| Plex |*
   
 ## Emulator
 - [emulatorgames.net](https://www.emulatorgames.net/)
