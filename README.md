@@ -116,7 +116,9 @@ https://ipinfo.io/login
 https://mxtoolbox.com/
 https://pictogrammers.com/library/mdi/version/7.2.96/
 https://metamanager.wiki
-
+https://linuxhint.com/apt-get-ubuntu/
+https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+https://linuxhandbook.com/ssh-hardening-tips/
 
 
 
