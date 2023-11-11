@@ -114,7 +114,8 @@ https://github.com/stefansundin/privatkopiera
 https://svtplay-dl.se/archive/
 https://ipinfo.io/login
 https://mxtoolbox.com/
-
+https://pictogrammers.com/library/mdi/version/7.2.96/
+https://metamanager.wiki
 
 
 
