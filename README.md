@@ -60,11 +60,13 @@
   
 ## GitHub Links 
 - [YTDLnis](https://github.com/deniscerri/ytdlnis)
-  *Youtube Downloader | And More (+1000)*
+  *| Youtube Downloader | And More (+1000)*
 - [Metube](https://github.com/alexta69/metube)
-   *Youtube Downloader | And More (+1000)*
+   *| Youtube Downloader | And More (+1000)*
 - [nmrpflash](https://github.com/jclehner/nmrpflash)
-   *YNetgear Unbrick Utility | Win / Mac / Linux*
+   *| YNetgear Unbrick Utility | Win / Mac / Linux*
+  - [Privatkopiera](https://stefansundin.github.io/privatkopiera/) '
+    *| Tillägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster*
   
 ## IPTV 
 - [m3u4u.com](https://m3u4u.com/)
@@ -122,9 +124,10 @@
 - [APKdl.io](https://t.me/apkdl_mod_io)
 
 ## Osorterade
-https://stefansundin.github.io/privatkopiera/
-illägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster
-https://stefansundin.github.io/privatkopiera/#ffmpeg
+
+
+
+g
 https://github.com/stefansundin/privatkopiera
 https://svtplay-dl.se/archive/
 https://ipinfo.io/login
