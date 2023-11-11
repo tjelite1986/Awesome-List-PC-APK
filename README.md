@@ -91,6 +91,8 @@
 - [Utmel.com](https://www.utmel.com/) <br>
   *ELECTRONIC COMPONENTS DISTRIBUTOR*
 - [Trakt.tv](https://www.trakt.tv)
+- [mdblist](https://mdblist.com)
+  *Create your own dynamic Trakt.tv list using multiple ratings and keywords.*
 
 ## Telegram Links
 - [MustHave](https://t.me/Alexey070315)
