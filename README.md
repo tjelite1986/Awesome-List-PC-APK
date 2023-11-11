@@ -52,19 +52,14 @@
 
 
 ## Telegram Links
-<a href="https://t.me/Alexey070315" target="_blank">🔥 MustHave</a>
+- [MustHave](https://t.me/Alexey070315)
+- [Mixroot Official](https://t.me/mixroot_Official)
+- [Mixroot Mods](https://t.me/Mixrootmods)
+- [vseapps](https://t.me/vseapps)
+- [MODYOLO.COM](https://t.me/modyolo_official)
+- [Andi Hack Official](https://t.me/andihack_mods)
+- [Andi Hack Games](https://t.me/Android_hacked_games)
 
-<a href="https://t.me/mixroot_Official" target="_blank">🔥 Mixroot Official</a>
-
-<a href="https://t.me/Mixrootmods" target="_blank">🔥 Mixroot</a>
-
-<a href="https://t.me/vseapps" target="_blank">🔥 vseapps (Russia)</a>
-
-<a href="https://t.me/modyolo_official" target="_blank">🔥 MODYOLO.COM </a>
-
-<a href="https://t.me/Android_hacked_games" target="_blank">🔥 AndiHack Games</a>
-
-<a href="https://t.me/andihack_mods" target="_blank">🔥 Andi Hack Official</a>
 
 <a href="https://t.me/liteapks" target="_blank">🔥 LITEAPKS.COM - Official</a>
 
