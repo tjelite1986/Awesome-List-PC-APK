@@ -1,24 +1,16 @@
-<h1><b>
-  My Awesome List of Random Stuff
-</b></h1>
-<h3><b><i>
-  Everything in one place, never lose something again.
-</b></i></h3>
-<h4><b>
-  Here you can find both Official and modded version of software and games.
-</b></h4>
-<h4><b>
- Platform: Android, PC, Linux
-</b></h4>
-<h4><b>
-  Many of Android apps and games you can find on the Playstore and in Telegram Channels.
-</b></h4>
-<h4><b>
-  I use a version of Telegram with name MDgram
-</b></h4>
+# My Awesome List of Random Stuff ##
+
+### *Everything in one place, never lose something again*.
+
+#### Here you can find both Official and modded version of software and games.
+
+#### Platform: Android, PC, Linux
+
+**Many of Android apps and games you can find on the Playstore and in Telegram Channels**
+
+**I use a version of Telegram with name MDgram**
   
-# Android Software (APK)
-///
+## Android Software (APK)
 - SmartTube (Android Tv YouTube) (MustHave)
 - YouTube Revanced (YouTube) (@vseapps)
 - MicroG (@vseapps)
@@ -34,30 +26,28 @@
 - TikTok Plugin (Plugin For TikTok)
 - Video Compressor (Video Compressor) (Mixroot)
 
-# Android Games (APK)
-///
+## Android Games (APK)
 - EverMerge (GameDVA.com)
 - Groovepad (Mixroot)
 
-# Windows Software (PC)
+## Windows Software (PC)
 
-# Windows Games (PC)
+## Windows Games (PC)
 
-# Ubuntu Server 
+## Ubuntu Server 
 
-# Ubuntu Desktop
+## Ubuntu Desktop
 
-# GitHub Links 
-///
+## GitHub Links 
 Youtube Downloader
 <a href="https://github.com/deniscerri/ytdlnis" target="_blank">YTDLnis by deniscerri</a>
 💡 Features:
 Download audio/video files from more than 1000 websites
 ///
 
-# More Random Links
+## More Random Links
 
-# Telegram Links
+## Telegram Links
 <a href="https://t.me/Alexey070315" target="_blank">🔥 MustHave</a>
 
 <a href="https://t.me/mixroot_Official" target="_blank">🔥 Mixroot Official</a>
