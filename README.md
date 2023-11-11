@@ -67,11 +67,9 @@
    *Swedish*
 - [TV4 Play](https://www.tv4play.se) <br>
    *Swedish*
-- [Disney Plus](https://www.disneyplus.com) <br>
-  
-- [HBO MAX](https://www.hbomax.com) <br>
-  
-- [Netflix](https://www.netflix.com) <br>
+- [Disney Plus](https://www.disneyplus.com)
+- [HBO MAX](https://www.hbomax.com)
+- [Netflix](https://www.netflix.com)
   
 
 ## Emulator
