@@ -62,6 +62,18 @@
 - [m3u4u.com](https://m3u4u.com/) <br>
    *m3u playlist editor | No VOD*
 
+## Streaming
+- [SVT Play](https://www.svtplay.se) <br>
+   *Swedish*
+- [TV4 Play](https://www.tv4play.se) <br>
+   *Swedish*
+- [Disney Plus](https://www.disneyplus.com) <br>
+  
+- [HBO MAX](https://www.hbomax.com) <br>
+  
+- [Netflix](https://www.netflix.com) <br>
+  
+
 ## Emulator
 - [emulatorgames.net](https://www.emulatorgames.net/) <br>
    *Emulator Games & ROMs*
