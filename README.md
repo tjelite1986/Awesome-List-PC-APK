@@ -31,20 +31,21 @@
 - Groovepad (Mixroot)
 
 ## Windows Software (PC)
-- [WinPcap](https://www.winpcap.org/) <br>
+- [WinPcap](https://www.winpcap.org/)
    *NO longer maintained | I RECOMMEND USING Npcap*
-- [Npcap](https://npcap.com/) <br>
+- [Npcap](https://npcap.com/)
    *This allows Windows software to capture raw network traffic*
-- [FTP Rush](https://www.wftpserver.com/) <br>
+- [FTP Rush](https://www.wftpserver.com/)
    *FTP Rush is a free FTP client software for Windows system*
-- [nmrpflash](https://github.com/jclehner/nmrpflash) <br>
+- [nmrpflash](https://github.com/jclehner/nmrpflash)
    *YNetgear Unbrick Utility | Win / Mac / Linux*
   
 ## Windows Games (PC)
 
 ## Ubuntu Server 
-- [Metube](https://github.com/alexta69/metube) <br>
-   *Youtube Downloader | And More (+1000)*
+- [Metube](https://github.com/alexta69/metube)
+  *Youtube Downloader | And More (+1000)*
+  
 ## Docker 
 - [hotio.dev](https://hotio.dev/)
   *Most images come with docker cli or compose examples*
@@ -54,25 +55,25 @@
   *Synology, Docker, Home Assistant and Raspberry Pi - for the HomeLab Enthusiast*
 
 ## Ubuntu Desktop
-- [nmrpflash](https://github.com/jclehner/nmrpflash) <br>
-   *YNetgear Unbrick Utility | Win / Mac / Linux*
+- [nmrpflash](https://github.com/jclehner/nmrpflash)
+  *YNetgear Unbrick Utility | Win / Mac / Linux*
   
 ## GitHub Links 
-- [YTDLnis](https://github.com/deniscerri/ytdlnis) <br>
+- [YTDLnis](https://github.com/deniscerri/ytdlnis)
   *Youtube Downloader | And More (+1000)*
-- [Metube](https://github.com/alexta69/metube) <br>
+- [Metube](https://github.com/alexta69/metube)
    *Youtube Downloader | And More (+1000)*
-- [nmrpflash](https://github.com/jclehner/nmrpflash) <br>
+- [nmrpflash](https://github.com/jclehner/nmrpflash)
    *YNetgear Unbrick Utility | Win / Mac / Linux*
   
 ## IPTV 
-- [m3u4u.com](https://m3u4u.com/) <br>
+- [m3u4u.com](https://m3u4u.com/)
    *m3u playlist editor | No VOD*
 
 ## Streaming
-- [SVT Play](https://www.svtplay.se) <br>
+- [SVT Play](https://www.svtplay.se)
    *Swedish*
-- [TV4 Play](https://www.tv4play.se) <br>
+- [TV4 Play](https://www.tv4play.se)
    *Swedish*
 - [Disney Plus](https://www.disneyplus.com)
 - [HBO MAX](https://www.hbomax.com)
@@ -83,19 +84,18 @@
 - [Hulu](https://www.hulu.com)
 - [Plex](https://www.plex.tv)
   
-
 ## Emulator
-- [emulatorgames.net](https://www.emulatorgames.net/) <br>
+- [emulatorgames.net](https://www.emulatorgames.net/)
    *Emulator Games & ROMs*
-- [cdromance.com](https://cdromance.com/) <br>
+- [cdromance.com](https://cdromance.com/)
    *Fan Translations, Romhacks & Retro Games*
-- [Retroarch Starter Guide](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/) <br>
+- [Retroarch Starter Guide](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/)
    *Retroarch Starter Guide*
   
 ## More Random Links
-- [OpenWRT](https://openwrt.org/) <br>
+- [OpenWRT](https://openwrt.org/)
    *The OpenWrt Project is a Linux operating system targeting embedded devices*
-- [Utmel.com](https://www.utmel.com/) <br>
+- [Utmel.com](https://www.utmel.com/)
   *ELECTRONIC COMPONENTS DISTRIBUTOR*
 - [Trakt.tv](https://www.trakt.tv)
 - [mdblist](https://mdblist.com)
