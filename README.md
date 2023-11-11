@@ -70,6 +70,11 @@
 - [Disney Plus](https://www.disneyplus.com)
 - [HBO MAX](https://www.hbomax.com)
 - [Netflix](https://www.netflix.com)
+- [Sky](https://www.sky.com/)
+- [Apple+](https://www.apple.com/apple-tv-plus/)
+- [Amazon Prime Video](https://www.primevideo.com)
+- [Hulu](https://www.hulu.com)
+- [Plex](https://www.plex.tv)
   
 
 ## Emulator
@@ -85,6 +90,7 @@
    *The OpenWrt Project is a Linux operating system targeting embedded devices*
 - [Utmel.com](https://www.utmel.com/) <br>
   *ELECTRONIC COMPONENTS DISTRIBUTOR*
+- [Trakt.tv](https://www.trakt.tv)
 
 ## Telegram Links
 - [MustHave](https://t.me/Alexey070315)
