@@ -111,4 +111,13 @@ https://stefansundin.github.io/privatkopiera/
 illägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster
 https://stefansundin.github.io/privatkopiera/#ffmpeg
 https://github.com/stefansundin/privatkopiera
+https://svtplay-dl.se/archive/
+https://ipinfo.io/login
+https://mxtoolbox.com/
+
+
+
+
+
+
 
