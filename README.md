@@ -62,9 +62,19 @@
 - [m3u4u.com](https://m3u4u.com/) <br>
    *m3u playlist editor | No VOD*
 
+## Emulator
+- [emulatorgames.net](https://www.emulatorgames.net/) <br>
+   *Emulator Games & ROMs*
+- [cdromance.com](https://cdromance.com/) <br>
+   *Fan Translations, Romhacks & Retro Games*
+- [Retroarch Starter Guide](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/) <br>
+   *Retroarch Starter Guide*
+  
 ## More Random Links
 - [OpenWRT](https://openwrt.org/) <br>
    *The OpenWrt Project is a Linux operating system targeting embedded devices*
+  - [Utmel.com](https://www.utmel.com/) <br>
+  *ELECTRONIC COMPONENTS DISTRIBUTOR*
 
 ## Telegram Links
 - [MustHave](https://t.me/Alexey070315)
