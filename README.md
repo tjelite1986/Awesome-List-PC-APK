@@ -31,7 +31,11 @@
 - Groovepad (Mixroot)
 
 ## Windows Software (PC)
-
+- [WinPcap](https://www.winpcap.org/) <br>
+   *NO longer maintained | I RECOMMEND USING Npcap*
+- [Npcap](https://npcap.com/) <br>
+   *This allows Windows software to capture raw network traffic*
+  
 ## Windows Games (PC)
 
 ## Ubuntu Server 
