@@ -108,6 +108,7 @@
 - [Utmel.com](https://www.utmel.com/)
   *ELECTRONIC COMPONENTS DISTRIBUTOR*
 - [Trakt.tv](https://www.trakt.tv)
+  *| Trakt.tv |*
 - [mdblist](https://mdblist.com)
   *Create your own dynamic Trakt.tv list using multiple ratings and keywords.*
 
@@ -132,11 +133,6 @@
 - [APKdl.io](https://t.me/apkdl_mod_io)
 
 ## Osorterade
-
-
-
-g
-https://github.com/stefansundin/privatkopiera
 https://svtplay-dl.se/archive/
 https://ipinfo.io/login
 https://mxtoolbox.com/
