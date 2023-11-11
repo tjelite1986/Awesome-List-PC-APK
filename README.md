@@ -35,6 +35,9 @@
    *NO longer maintained | I RECOMMEND USING Npcap*
 - [Npcap](https://npcap.com/) <br>
    *This allows Windows software to capture raw network traffic*
+- [FTP Rush](https://www.wftpserver.com/) <br>
+   *FTP Rush is a free FTP client software for Windows system*
+  
   
 ## Windows Games (PC)
 
@@ -55,7 +58,8 @@
    *m3u playlist editor | No VOD*
 
 ## More Random Links
-
+- [OpenWRT](https://openwrt.org/) <br>
+   *The OpenWrt Project is a Linux operating system targeting embedded devices*
 
 ## Telegram Links
 - [MustHave](https://t.me/Alexey070315)
