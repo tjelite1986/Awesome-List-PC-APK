@@ -37,7 +37,8 @@
    *This allows Windows software to capture raw network traffic*
 - [FTP Rush](https://www.wftpserver.com/) <br>
    *FTP Rush is a free FTP client software for Windows system*
-  
+- [nmrpflash](https://github.com/jclehner/nmrpflash) <br>
+   *YNetgear Unbrick Utility | Win / Mac / Linux*
   
 ## Windows Games (PC)
 
@@ -46,12 +47,16 @@
    *Youtube Downloader | And More (+1000)*
 
 ## Ubuntu Desktop
-
+- [nmrpflash](https://github.com/jclehner/nmrpflash) <br>
+   *YNetgear Unbrick Utility | Win / Mac / Linux*
+  
 ## GitHub Links 
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) <br>
   *Youtube Downloader | And More (+1000)*
 - [Metube](https://github.com/alexta69/metube) <br>
    *Youtube Downloader | And More (+1000)*
+- [nmrpflash](https://github.com/jclehner/nmrpflash) <br>
+   *YNetgear Unbrick Utility | Win / Mac / Linux*
   
 ## IPTV 
 - [m3u4u.com](https://m3u4u.com/) <br>
