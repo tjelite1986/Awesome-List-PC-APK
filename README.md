@@ -94,7 +94,6 @@
 - [ApkVision.org](https://t.me/apkvision)
 - [Goldroid Family](https://t.me/apkmodyfamily)
 - [MOD APPS Stock](https://t.me/MOD_APPS_Stock)
-- [Android Hacked](https://t.me/Android_ hacked_apps_games)
 - [APKdl.io](https://t.me/apkdl_mod_io)
 
 
