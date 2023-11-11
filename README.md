@@ -1,10 +1,22 @@
-# My Awesome List of Random Stuff
-<h5>Everything in one place, never lose something again.</h5>
-### Here you can find both Official and modded version of software and games.
-### Platform: Android, PC, Linux
-### Many of Android apps and games you can find on the Playstore and in Telegram Channels.
-### I use a version of Telegram with name MDgram
-
+<h1><b>
+  My Awesome List of Random Stuff
+</b></h1>
+<h3><b><i>
+  Everything in one place, never lose something again.
+</b></i></h3>
+<h4><b>
+  Here you can find both Official and modded version of software and games.
+</b></h4>
+<h4><b>
+ Platform: Android, PC, Linux
+</b></h4>
+<h4><b>
+  Many of Android apps and games you can find on the Playstore and in Telegram Channels.
+</b></h4>
+<h4><b>
+  I use a version of Telegram with name MDgram
+</b></h4>
+  
 # Android Software (APK)
 ///
 - SmartTube (Android Tv YouTube) (MustHave)
