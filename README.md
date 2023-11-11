@@ -39,9 +39,12 @@
 ## Ubuntu Desktop
 
 ## GitHub Links 
-- Youtube and more Downloader YTDLnis [GitHub Pages](https://github.com/deniscerri/ytdlnis).
+- [YTDLnis](https://github.com/deniscerri/ytdlnis) <br>
+  *Youtube Downloader | And More (+1000)*
+  
 ## IPTV 
-- m3u playlist editor | No VOD [M3u4u Pages](https://m3u4u.com/).
+- [m3u4u.com](https://m3u4u.com/) <br>
+   *m3u playlist editor | No VOD*
 - 
 ## More Random Links
 
