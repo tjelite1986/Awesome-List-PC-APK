@@ -39,11 +39,7 @@
 ## Ubuntu Desktop
 
 ## GitHub Links 
-Youtube Downloader
-<a href="https://github.com/deniscerri/ytdlnis" target="_blank">YTDLnis by deniscerri</a>
-💡 Features:
-Download audio/video files from more than 1000 websites
-///
+- Youtube and more Downloader YTDLnis [GitHub Pages](https://github.com/deniscerri/ytdlnis).
 
 ## More Random Links
 
