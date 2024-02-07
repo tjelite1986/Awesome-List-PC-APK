@@ -42,9 +42,9 @@
 
 ## Android Tv
 - [Button Mapping](https://play.google.com/store/apps/details?id=flar2.homebutton)
-  * For remapping the remote buttons (Netflix etc.) Access settings when content streaming.*
+  * For remapping the remote buttons (Netflix etc.) Access settings when content streaming.
 - [Bluetooth keyboard & mouse](https://play.google.com/store/apps/details?id=io.appground.blek)
-  * Control you Tv with Keyboard and Mouse on you Phone.*
+  * Control you Tv with Keyboard and Mouse on you Phone.
   
 ## Windows Games (PC)
 
@@ -102,21 +102,21 @@
   
 ## Emulator
 - [emulatorgames.net](https://www.emulatorgames.net/)
-   *Emulator Games & ROMs*
+   * Emulator Games & ROMs
 - [cdromance.com](https://cdromance.com/)
-   *Fan Translations, Romhacks & Retro Games*
+   * Fan Translations, Romhacks & Retro Games
 - [Retroarch Starter Guide](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/)
-   *Retroarch Starter Guide*
+   * Retroarch Starter Guide
   
 ## More Random Links
 - [OpenWRT](https://openwrt.org/)
-   *The OpenWrt Project is a Linux operating system targeting embedded devices*
+   * The OpenWrt Project is a Linux operating system targeting embedded devices
 - [Utmel.com](https://www.utmel.com/)
-  *ELECTRONIC COMPONENTS DISTRIBUTOR*
+  * ELECTRONIC COMPONENTS DISTRIBUTOR
 - [Trakt.tv](https://www.trakt.tv)
-  *| Trakt.tv |*
+  * | Trakt.tv |
 - [mdblist](https://mdblist.com)
-  *Create your own dynamic Trakt.tv list using multiple ratings and keywords.*
+  * Create your own dynamic Trakt.tv list using multiple ratings and keywords.
 
 ## Telegram Links
 - [MustHave](https://t.me/Alexey070315)
