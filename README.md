@@ -41,9 +41,9 @@
    *YNetgear Unbrick Utility | Win / Mac / Linux*
 
 ## Android Tv
-- [Button Mapping] (https://play.google.com/store/apps/details?id=flar2.homebutton)
+- [Button Mapping](https://play.google.com/store/apps/details?id=flar2.homebutton)
   * For remapping the remote buttons (Netflix etc.) Access settings when content streaming.*
-- Bluetooth keyboard & mouse
+- [Bluetooth keyboard & mouse](https://play.google.com/store/apps/details?id=io.appground.blek)
   * Control you Tv with Keyboard and Mouse on you Phone.*
   
 ## Windows Games (PC)
