@@ -41,8 +41,10 @@
    *YNetgear Unbrick Utility | Win / Mac / Linux*
 
 ## Android Tv
-Button Mapping*
-Bluetooth keyboard & mouse*
+- Button Mapping
+  * For remapping the remote buttons (Netflix etc.) Access settings when content streaming.*
+- Bluetooth keyboard & mouse
+  * Control you Tv with Keyboard and Mouse on you Phone.*
   
 ## Windows Games (PC)
 
