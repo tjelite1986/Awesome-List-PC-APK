@@ -32,13 +32,13 @@
 
 ## Windows Software (PC)
 - [WinPcap](https://www.winpcap.org/)
-   * NO longer maintained | I RECOMMEND USING Npcap
+  * NO longer maintained | I RECOMMEND USING Npcap
 - [Npcap](https://npcap.com/)
-   * This allows Windows software to capture raw network traffic*
+  * This allows Windows software to capture raw network traffic*
 - [FTP Rush](https://www.wftpserver.com/)
-   * FTP Rush is a free FTP client software for Windows system*
+  * FTP Rush is a free FTP client software for Windows system*
 - [nmrpflash](https://github.com/jclehner/nmrpflash)
-   * YNetgear Unbrick Utility | Win / Mac / Linux*
+  * YNetgear Unbrick Utility | Win / Mac / Linux*
 
 ## Android Tv
 - [Button Mapping](https://play.google.com/store/apps/details?id=flar2.homebutton)
@@ -50,7 +50,7 @@
 
 ## Ubuntu Server 
 - [Metube](https://github.com/alexta69/metube)
-  *Youtube Downloader | And More (+1000)*
+  * Youtube Downloader | And More (+1000)*
   
 ## Docker 
 - [hotio.dev](https://hotio.dev/)
@@ -68,9 +68,9 @@
 - [YTDLnis](https://github.com/deniscerri/ytdlnis)
   * | Youtube Downloader | And More (+1000)
 - [Metube](https://github.com/alexta69/metube)
-   * | Youtube Downloader | And More (+1000)
+  * | Youtube Downloader | And More (+1000)
 - [nmrpflash](https://github.com/jclehner/nmrpflash)
-   * | YNetgear Unbrick Utility | Win / Mac / Linux
+  * | YNetgear Unbrick Utility | Win / Mac / Linux
 - [Privatkopiera](https://stefansundin.github.io/privatkopiera/) 
   * | Tillägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster
   
