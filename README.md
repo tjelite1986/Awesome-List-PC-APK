@@ -32,13 +32,13 @@
 
 ## Windows Software (PC)
 - [WinPcap](https://www.winpcap.org/)
-   *NO longer maintained | I RECOMMEND USING Npcap*
+   * NO longer maintained | I RECOMMEND USING Npcap
 - [Npcap](https://npcap.com/)
-   *This allows Windows software to capture raw network traffic*
+   * This allows Windows software to capture raw network traffic*
 - [FTP Rush](https://www.wftpserver.com/)
-   *FTP Rush is a free FTP client software for Windows system*
+   * FTP Rush is a free FTP client software for Windows system*
 - [nmrpflash](https://github.com/jclehner/nmrpflash)
-   *YNetgear Unbrick Utility | Win / Mac / Linux*
+   * YNetgear Unbrick Utility | Win / Mac / Linux*
 
 ## Android Tv
 - [Button Mapping](https://play.google.com/store/apps/details?id=flar2.homebutton)
