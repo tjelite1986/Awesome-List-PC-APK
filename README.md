@@ -102,15 +102,15 @@
   
 ## Emulator
 - [emulatorgames.net](https://www.emulatorgames.net/)
-   * Emulator Games & ROMs
+  * Emulator Games & ROMs
 - [cdromance.com](https://cdromance.com/)
-   * Fan Translations, Romhacks & Retro Games
+  * Fan Translations, Romhacks & Retro Games
 - [Retroarch Starter Guide](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/)
-   * Retroarch Starter Guide
+  * Retroarch Starter Guide
   
 ## More Random Links
 - [OpenWRT](https://openwrt.org/)
-   * The OpenWrt Project is a Linux operating system targeting embedded devices
+  * The OpenWrt Project is a Linux operating system targeting embedded devices
 - [Utmel.com](https://www.utmel.com/)
   * ELECTRONIC COMPONENTS DISTRIBUTOR
 - [Trakt.tv](https://www.trakt.tv)
