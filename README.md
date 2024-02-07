@@ -54,29 +54,29 @@
   
 ## Docker 
 - [hotio.dev](https://hotio.dev/)
-  *Most images come with docker cli or compose examples*
+  * Most images come with docker cli or compose examples
 - [dockstarter.com](https://dockstarter.com/)
-  *The main goal of DockSTARTer is to make it quick and easy to get up and running with Docker*
+  * The main goal of DockSTARTer is to make it quick and easy to get up and running with Docker
 - [Academy @ PointToSource](https://academy.pointtosource.com/)
-  *Synology, Docker, Home Assistant and Raspberry Pi - for the HomeLab Enthusiast*
+  * Synology, Docker, Home Assistant and Raspberry Pi - for the HomeLab Enthusiast
 
 ## Ubuntu Desktop
 - [nmrpflash](https://github.com/jclehner/nmrpflash)
-  *YNetgear Unbrick Utility | Win / Mac / Linux*
+  * YNetgear Unbrick Utility | Win / Mac / Linux
   
 ## GitHub Links 
 - [YTDLnis](https://github.com/deniscerri/ytdlnis)
-  *| Youtube Downloader | And More (+1000)*
+  * | Youtube Downloader | And More (+1000)
 - [Metube](https://github.com/alexta69/metube)
-   *| Youtube Downloader | And More (+1000)*
+   * | Youtube Downloader | And More (+1000)
 - [nmrpflash](https://github.com/jclehner/nmrpflash)
-   *| YNetgear Unbrick Utility | Win / Mac / Linux*
-- [Privatkopiera](https://stefansundin.github.io/privatkopiera/) '
-  *| Tillägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster*
+   * | YNetgear Unbrick Utility | Win / Mac / Linux
+- [Privatkopiera](https://stefansundin.github.io/privatkopiera/) 
+  * | Tillägget tar reda på vilka addresser du kan använda för att ladda ned videoklipp från ett antal Play-tjänster
   
 ## IPTV 
 - [m3u4u.com](https://m3u4u.com/)
-  *| m3u playlist editor | No VOD*
+  * | m3u playlist editor | No VOD
 
 ## Streaming
 - [SVT Play](https://www.svtplay.se)
